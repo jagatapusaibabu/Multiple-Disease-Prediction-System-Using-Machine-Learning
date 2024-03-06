@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multiple-Disease-Prediction-System
 
 About the Project : 
@@ -17,3 +18,6 @@ Procedure: • Import the necessary libraries and the diabetic and heart disease
 
 ![image](https://user-images.githubusercontent.com/93932788/221213287-ad16d91d-b6df-4a80-a5ed-5ab28e230619.png)
 
+=======
+# Multiple-Disease-Prediction-System-Using-Machine-Learning
+>>>>>>> origin/main
