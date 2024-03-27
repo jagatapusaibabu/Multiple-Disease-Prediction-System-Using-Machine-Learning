@@ -3,12 +3,12 @@ Open your terminal or command prompt.
 Navigate to the directory where your Streamlit application script is located using the cd command. For example:
 
 bash/cmd 
-command : cd C:\Users\jagat\Desktop\projects\Multiple Disease Prediction System
+command : streamlit run "C:\Users\jagat\Desktop\projects\Multiple Disease Prediction System\Multiple disease predict.py
 Once you're in the correct directory, use the streamlit run command followed by the name of your script to run the Streamlit application. For example:
 
 arduino/cmd 
 
-command : streamlit run "app.py"
+command : streamlit run "Multiple disease predict.pys"
 Make sure to include the file extension (.py) if it's part of your script's name.
 
 Running the script with streamlit run command will properly launch the Streamlit server and allow you to view your application in a web browser.
