@@ -8,7 +8,7 @@ Once you're in the correct directory, use the streamlit run command followed by 
 
 arduino/cmd 
 
-command : streamlit run "Multiple disease predict.pys"
+command : streamlit run "Multiple disease predict.py"
 Make sure to include the file extension (.py) if it's part of your script's name.
 
 Running the script with streamlit run command will properly launch the Streamlit server and allow you to view your application in a web browser.
