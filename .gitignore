@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+env/
+myenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other
+.vscode/
+.idea/
+*.suo
+*.log
