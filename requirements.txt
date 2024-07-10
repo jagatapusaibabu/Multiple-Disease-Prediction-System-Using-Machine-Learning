@@ -164,11 +164,11 @@ tensorboard==2.13.0
     # via tensorflow-intel
 tensorboard-data-server==0.7.2
     # via tensorboard
-tensorflow==2.13.1
+tensorflow==2.16.1
     # via -r requirements.in
 tensorflow-estimator==2.13.0
     # via tensorflow-intel
-tensorflow-intel==2.13.1
+tensorflow-intel==2.16.1
     # via tensorflow
 tensorflow-io-gcs-filesystem==0.31.0
     # via tensorflow-intel
