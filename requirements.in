@@ -1,0 +1,4 @@
+tensorflow==2.13.1
+streamlit==1.31.1
+pydantic==1.10.14
+# Add other dependencies as needed
